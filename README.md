@@ -37,7 +37,7 @@ Cada push a la rama `main` genera un nuevo deploy automático.
 
 # REPOSITORIO GITHUB
 
-**https://github.com/fernandabahamondes/sercotec-landing**
+**https://github.com/fdabahamondes/sercotec-landing**
 
 ### Ramas del proyecto
 
@@ -133,7 +133,7 @@ sercotec-landing/
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/fernandabahamondes/sercotec-landing.git
+git clone https://github.com/fdabahamondes/sercotec-landing.git
 cd sercotec-landing
 ```
 
@@ -280,7 +280,7 @@ administrar el contenido de servicios, testimonios y FAQ sin tocar el código.
 - Protección honeypot contra bots (campo oculto que los bots rellenan
     automáticamente, bloqueando el envío)
 - Atributo `noValidate` para control total de la validación desde React
-- Mensaje de error claros y específicos por campo
+- Mensajes de error claros y específicos por campo
 
 ---
 
@@ -431,29 +431,29 @@ Usuario (Navegador)
    **Acción, responsable y prioridad**
 
    ### 1.
-    - Acción: Migrar CMS local a Supabase para persistencia real
-    - Responsable: Equipo completo
-    - Prioridad: Alta
+   - Acción: Migrar CMS local a Supabase para persistencia real
+   - Responsable: Equipo completo
+   - Prioridad: Alta
 
    ### 2.
-    - Acción: Conectar formulario de contacto a servicio de email (EmailJS o similar)
-    - Resposable: Equipo completo
-    - Prioridad: Alta
+   - Acción: Conectar formulario de contacto a servicio de email (EmailJS o similar)
+   - Responsable: Equipo completo
+   - Prioridad: Alta
 
    ### 3.
-    - Acción: Cargar testimonios dinámicamente desde el CMS Equipo completo
-    - Responsable: Equipo completo
-    - Prioridad: Media
+   - Acción: Cargar testimonios dinámicamente desde el CMS
+   - Responsable: Equipo completo
+   - Prioridad: Media
 
    ### 4.
-    - Acción: Agregar animaciones de entrada con Intersection Observer
-    - Responsable: Equipo completo
-    - Prioridad: Baja
+   - Acción: Agregar animaciones de entrada con Intersection Observer
+   - Responsable: Equipo completo
+   - Prioridad: Baja
 
    ### 5.
-    - Acción: Implementar tests unitarios con Vitest para componentes principales
-    - Responsable: Equipo completo
-    - Prioridad: Media
+   - Acción: Implementar tests unitarios con Vitest para componentes principales
+   - Responsable: Equipo completo
+   - Prioridad: Media
 
 ---
 
