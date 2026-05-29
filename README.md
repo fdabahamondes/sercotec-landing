@@ -28,7 +28,7 @@ frontend.
 
 La landing page está desplegada y disponible en:
 
-**https://sercotec-landing.vercel.app**
+**https://sercotec-landing-three.vercel.app**
 
 El despliegue se realizó con **Vercel**, conectado directamente al repositorio de GitHub.
 Cada push a la rama `main` genera un nuevo deploy automático.
