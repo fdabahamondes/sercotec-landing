@@ -1,0 +1,114 @@
+{
+  "nosotros": {
+    "descripcion1": "El Centro de Negocios Santiago de SERCOTEC es una institución dedicada a ofrecer servicios integrales de apoyo y acompañamiento a las micro, pequeñas y medianas empresas.",
+    "descripcion2": "Nuestro enfoque está especializado en gestión, innovación y fortalecimiento de capacidades, con el objetivo de garantizar el correcto funcionamiento, sostenibilidad y eficiencia de los negocios de nuestros clientes.",
+    "descripcion3": "Ubicados en Manuel Rodríguez Sur 749, Santiago (Metro Toesca), estamos disponibles para acompañarte en cada etapa de tu negocio.",
+    "imagen": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format&fit=crop",
+    "estadisticas": [
+      { "valor": "+500", "etiqueta": "Empresas acompañadas" },
+      { "valor": "+10", "etiqueta": "Años de experiencia" },
+      { "valor": "98%", "etiqueta": "Satisfacción clientes" }
+    ]
+  },
+  "servicios": [
+    {
+      "id": 1,
+      "titulo": "Acompañamiento Preventivo",
+      "descripcion": "Asesorías periódicas para prolongar la vida útil de tu negocio y aumentar su productividad mediante diagnósticos y planes de mejora continuos.",
+      "imagen": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=600&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "titulo": "Acompañamiento Correctivo",
+      "descripcion": "Resolvemos cualquier dificultad o desafío que afecte la gestión o el desarrollo de tu empresa con soluciones rápidas y efectivas.",
+      "imagen": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "titulo": "Gestión y Capacitación",
+      "descripcion": "Te orientamos y capacitamos en áreas clave como administración, finanzas, marketing digital y procesos de innovación.",
+      "imagen": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "titulo": "Eficiencia y Sostenibilidad",
+      "descripcion": "Incorporamos herramientas digitales y optimizamos procesos para implementar estrategias de crecimiento sostenible en tu negocio.",
+      "imagen": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "titulo": "Vinculación Empresarial",
+      "descripcion": "Ofrecemos espacios de networking, articulación con instituciones públicas y privadas, y acceso a programas de financiamiento.",
+      "imagen": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=600&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "titulo": "Financiamiento e Innovación",
+      "descripcion": "Te conectamos con programas de financiamiento y fomentamos la innovación como motor de crecimiento y competitividad empresarial.",
+      "imagen": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=600&auto=format&fit=crop"
+    }
+  ],
+  "testimonios": [
+    {
+      "id": 1,
+      "nombre": "María González",
+      "empresa": "Panadería Don Pedro",
+      "cargo": "Dueña",
+      "texto": "Gracias al Centro de Negocios logramos digitalizar nuestro negocio y aumentar las ventas en un 40%. El acompañamiento fue fundamental."
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Muñoz",
+      "empresa": "Ferretería Los Andes",
+      "cargo": "Gerente General",
+      "texto": "El apoyo en gestión financiera nos permitió ordenar nuestras finanzas y acceder a un programa de financiamiento que no conocíamos."
+    },
+    {
+      "id": 3,
+      "nombre": "Ana Martínez",
+      "empresa": "Boutique Alma",
+      "cargo": "Fundadora",
+      "texto": "Las capacitaciones en marketing digital transformaron nuestra presencia online. Hoy vendemos a todo Chile desde nuestra tienda."
+    },
+    {
+      "id": 4,
+      "nombre": "Roberto Silva",
+      "empresa": "Taller Mecánico Silva",
+      "cargo": "Propietario",
+      "texto": "El plan de mejora que nos entregaron fue clave para superar la crisis. Hoy somos más eficientes y rentables que antes."
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "pregunta": "¿Quiénes pueden acceder a los servicios del Centro de Negocios?",
+      "respuesta": "Pueden acceder micro, pequeñas y medianas empresas de la Región Metropolitana que estén formalizadas y busquen apoyo en gestión, innovación o financiamiento."
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Los servicios tienen algún costo?",
+      "respuesta": "La mayoría de nuestros servicios son gratuitos o de bajo costo, ya que son financiados por SERCOTEC. Consulta con nuestro equipo para conocer los detalles de cada programa."
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cómo puedo agendar una asesoría?",
+      "respuesta": "Puedes agendar una asesoría a través de nuestro formulario de contacto, por correo a centro.santiago@centrossercotec.cl o visitándonos en Manuel Rodríguez Sur 749, Santiago."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Qué es el acompañamiento preventivo?",
+      "respuesta": "Es un servicio de asesorías periódicas diseñado para anticipar problemas en tu negocio, optimizar procesos y aumentar la productividad antes de que surjan dificultades."
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Ofrecen capacitaciones presenciales y online?",
+      "respuesta": "Sí, contamos con modalidades presenciales en nuestra sede y capacitaciones online para mayor comodidad de los empresarios de toda la región."
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cómo puedo acceder a programas de financiamiento?",
+      "respuesta": "A través de nuestro servicio de vinculación empresarial te conectamos con los programas de financiamiento disponibles en SERCOTEC y otras instituciones públicas y privadas."
+    }
+  ],
+  "contacto": []
+}
